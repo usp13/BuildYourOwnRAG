@@ -1,0 +1,7 @@
+node_modules
+.env
+
+// Personal Markdown Files
+RAG.md
+BackendARCH.md
+Progress.md
